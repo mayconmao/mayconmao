@@ -14,6 +14,9 @@
 
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi folks</br>
+Welcome to my page!
+I'm Maycon Silva, ReactJS developer
 <br />
 <br /> 
 

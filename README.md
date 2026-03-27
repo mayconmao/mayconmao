@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&color=4F46E5&size=32&center=true&vCenter=true&width=650&height=80&lines=Ol%C3%A1%2C+sou+Maycon+Silva+%F0%9F%91%8B;Desenvolvedor+Full+Stack;Backend+ao+Mobile+em+produ%C3%A7%C3%A3o;NestJS+%C2%B7+Next.js+%C2%B7+React+Native" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&color=4F46E5&size=32&center=true&vCenter=true&width=650&height=80&lines=Ol%C3%A1%2C+sou+Maycon+Silva+%F0%9F%91%8B;Desenvolvedor+Full+Stack;Backend+ao+Mobile;NestJS+%C2%B7+Next.js+%C2%B7+React+Native" />
   </a>
 </p>
 
